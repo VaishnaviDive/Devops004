@@ -7,6 +7,4 @@ def fac(n):
 # Example usage
 num = int(input("Enter a number: "))
 print(f"The fact of {num} is {fac(num)}")
-print("hello")
-print("thank you")
-print("HELLO!")
+print("i am vaishnavi")
